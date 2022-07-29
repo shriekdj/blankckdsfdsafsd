@@ -1,0 +1,14 @@
+await fetch("http://164.100.133.176/ekarmika/UserCredentials/CertificateView.aspx", {
+    "credentials": "include",
+    "headers": {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:103.0) Gecko/20100101 Firefox/103.0",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Content-Type": "application/x-www-form-urlencoded",
+        "Upgrade-Insecure-Requests": "1"
+    },
+    "referrer": "http://164.100.133.176/ekarmika/UserCredentials/CertificateView.aspx",
+    "body": "__EVENTTARGET=ctl00%24MainContent%24GRD_EstDetails%24ctl02%24lbtn_view&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwULLTExNjI3MDUwMDIPFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCARYCZg9kFgICAw9kFgQCCQ9kFgYCBQ8PFgIeBFRleHRlZGQCBw88KwARAwAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCAWQBEBYAFgAWAAwUKwAAFgJmD2QWBAIBD2QWCGYPDxYCHwEFE0tBTlRJIFNXRUVUUyBQVlQgVERkZAIBDw8WAh8BBQY3NDExMzFkZAICDw8WAh8BBRA0Lzc4L1MvMDAwMS8yMDIyZGQCAw8PFgIfAQUHMTAxOTg2M2RkAgIPDxYCHgdWaXNpYmxlaGRkAgkPFCsABWQoKVhTeXN0ZW0uR3VpZCwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5JGQ5ZDg0MWFhLTBlNTctNGFmNy1hNDM3LThhMjg0NTc0ZmY4OAIBFCsAATwrAAQBAGZkZAILDw8WAh8BBQQyMDIyZGQYAQUgY3RsMDAkTWFpbkNvbnRlbnQkR1JEX0VzdERldGFpbHMPPCsADAEIAgFkcICMQ0Bzyh7b%2BIAp%2BGvQAF5WLkDkVGZSnB4vejFIzMQ%3D&__VIEWSTATEGENERATOR=A7B1C635&ctl00%24username=&ctl00%24password1=&ctl00%24MainContent%24txt_cerficate=4%2F78%2FS%2F0001%2F2022",
+    "method": "POST",
+    "mode": "cors"
+}); 
